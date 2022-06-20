@@ -1,6 +1,13 @@
-.heading {
-  &__one {
-    color: green;
-    background-color: skyblue;
-  }
+*{
+  border: 0 none;
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+.video_player {
+  width: 100vw;
+  height: 100vh;
 }
